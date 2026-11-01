@@ -8,3 +8,4 @@ A throwaway demo target for the [`orchestrate` and `executor` skills](https://gi
 
 - `clamp(value, min, max)`
 - `formatBytes(count)`
+- `parseDuration(text)`
