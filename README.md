@@ -7,3 +7,4 @@ A throwaway demo target for the [`orchestrate` and `executor` skills](https://gi
 ## Functions
 
 - `clamp(value, min, max)`
+- `formatBytes(count)`
